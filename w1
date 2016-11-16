@@ -1,4 +1,0 @@
-Welcome to my first app
-<script>
-document.onclick=()=>console.log(33)	
-</script>
